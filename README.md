@@ -2,7 +2,7 @@
 # 🚀 Go Webhook Data Transformer
 
 
-## This project implements a single-file Go HTTP server designed to process incoming webhook payloads. It converts a flat JSON structure with abbreviated, numbered keys (e.g., ev, atrk1) into a rich, nested JSON format before forwarding the result to an external webhook endpoint.
+ This project implements a single-file Go HTTP server designed to process incoming webhook payloads. It converts a flat JSON structure with abbreviated, numbered keys (e.g., ev, atrk1) into a rich, nested JSON format before forwarding the result to an external webhook endpoint.
 
 ## ✨ Features
 
