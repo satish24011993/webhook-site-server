@@ -1,0 +1,15 @@
+# Binaries for programs
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test coverage output
+*.out
+
+# Compiled Go programs
+/go-webhook-server  # Replace 'go-webhook-server' with your project name if you compile it
+
+# OS generated files
+.DS_Store
+Thumbs.db
