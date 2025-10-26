@@ -101,7 +101,7 @@ Webhook Site: Visit your unique webhook URL. Click on the latest POST request in
 📊 Expected Output Structure
 
 The data sent to the external webhook will be in this final, required format:
-
+```
 {
   "event": "contact_form_submitted",
   "event_type": "form_submit",
@@ -137,3 +137,4 @@ The data sent to the external webhook will be in this final, required format:
     }
   }
 }
+```
